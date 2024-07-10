@@ -2,9 +2,11 @@
 
 ## Sobre mim:
 
--Nome: Everaldo
--Idade: 18 anos
--Expectativa profissional: me tornar desenvolvedor FullStack.
+<ol>
+<li>Nome: Everaldo</li>
+<li>Idade: 18 anos</li>
+<li></li>Expectativa profissional: me tornar desenvolvedor FullStack.</li>
+</ol>
 
 ## Tecnologias:
 
