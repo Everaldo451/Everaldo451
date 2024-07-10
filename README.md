@@ -2,16 +2,15 @@
 
 ## Sobre mim:
 
-<ul align="right" style="display:inline-block">
-<p>Minhas Redes:</p>
-<a target="_blank"href="https://www.linkedin.com/in/everaldo-veloso-cavalcanti-junior-15673a30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</ul>
-
 <ul style= "display:inline-block" align:"left">
 <li>Nome:Everaldo</li>
 <li>Idade: 18 anos</li>
 <li>Expectativa profissional: me tornar desenvolvedor FullStack.</li>
+</ul>
+
+<ul align="right" style="display:inline-block">
+<p>Minhas Redes:</p>
+<a target="_blank"href="https://www.linkedin.com/in/everaldo-veloso-cavalcanti-junior-15673a30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </ul>
 
 
