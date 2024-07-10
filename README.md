@@ -1,6 +1,10 @@
-# Hello World!
+# Bem vindos ao meu perfil. 
 
-## Bem vindos ao meu perfil. Me chamo Everaldo, tenho 18 anos e pretendo me tornar desenvolvedor FullStack.
+## Sobre mim:
+
+*Nome: Everaldo
+*Idade: 18 anos
+*Expectativa profissional: me tornar desenvolvedor FullStack.
 
 ## Tecnologias:
 
