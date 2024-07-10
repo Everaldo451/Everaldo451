@@ -1,7 +1,7 @@
 ## Bem vindos ao meu perfil. Me chamo Everaldo, tenho 18 anos e pretendo me tornar desenvolvedor FullStack.
 
 ## Tecnologias que uso:
-<div style="display:flex;flex-direction:row;justify-content:center">
+<div>
   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     
