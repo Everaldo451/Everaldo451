@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Everaldo451&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ursername=Everaldo451&layout=compact&theme=radical)
 </div> 
 
 <!--
