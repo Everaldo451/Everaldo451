@@ -15,21 +15,17 @@
 
 
 ## Tecnologias:
-
-<div style="display:flex; flex-direction: row">
           
 <div style="display:inline-block" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" vertical-align="middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height:="40" vertical-align="middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" vertical-align="middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" vertical-align="middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" vertical-align="middle"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" valign="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" valign="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height:="40" valign="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" valign="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" valign="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" valign="center"/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=radical" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=radical" align="right" valign="center"/>
 </div> 
-
-</div>
 
 <!--
 **Everaldo451/Everaldo451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
