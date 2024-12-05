@@ -28,7 +28,7 @@
 </div> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=radical"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=radical)
+
 </div>
 
 <!--
