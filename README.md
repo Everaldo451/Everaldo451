@@ -3,7 +3,7 @@
 ## Sobre mim:
 
 <ul style= "display:inline-block" align:"left">
-<li>Nome:Everaldo</li>
+<li>Nome: Everaldo</li>
 <li>Idade: 18 anos</li>
 <li>Expectativa profissional: me tornar desenvolvedor FullStack.</li>
 </ul>
@@ -27,9 +27,9 @@
 
 
 ## Github Status:
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Everaldo451&theme=onedark"/>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=onedark"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Everaldo451&theme=onedark" height="200"/>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=onedark" height="200"/>
 </div>
 <!--
 **Everaldo451/Everaldo451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
