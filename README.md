@@ -4,7 +4,6 @@
 
 <ul style= "display:inline-block" align:"left">
 <li>Nome: Everaldo</li>
-<li>Idade: 18 anos</li>
 <li>Expectativa profissional: me tornar desenvolvedor FullStack.</li>
 </ul>
 
