@@ -1,70 +1,52 @@
 # Bem vindos ao meu perfil. 
 
-## Sobre mim:
+### Redes sociais
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everaldo-veloso-cavalcanti-junior-15673a30a)
 
-<ul style= "display:inline-block" align:"left">
-<li>Nome: Everaldo</li>
-<li>Futuro Desenvolvedor Fullstack</li>
-</ul>
+## Skills
 
-<ul align="right" style="display:inline-block">
-<p>Minhas Redes:</p>
-<a target="_blank"href="https://www.linkedin.com/in/everaldo-veloso-cavalcanti-junior-15673a30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://leetcode.com/u/everaldo451">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" height="40"/></a>
-          
-</ul>
+### Linguagens de Programação
 
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 
-## Tecnologias:
+### Design & Estilização
 
-### Frontend:
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-4B5563?style=for-the-badge&logo=tailwindcss&logoColor=76A9FA)
 
-<div style="display:inline-block" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" valign="center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height:="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height:="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</div>
+### Frameworks
 
-### Backend:
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/flask-20232A?style=for-the-badge&logo=flask&logoColor=3AAAC3)
+![Next.JS](https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![React](https://img.shields.io/badge/react-070809?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<div style="display:inline-block" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="40" height="40"/>
-</div> 
+### Testes
 
-### Ferramentas:
+![Pytest](https://img.shields.io/badge/pytest-00b894?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-E04E39?style=for-the-badge&logo=jest&logoColor=white)
 
-<div style="display:inline-block" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"  height="40"/>
-</div> 
+### Banco de Dados
 
-## Github Status:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Everaldo451&theme=onedark" height="200"/>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=onedark" height="200"/>
-</div>
-<!--
-**Everaldo451/Everaldo451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-Here are some ideas to get you started:
+### DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## Github Analytics
+<table>
+          <tr>
+                    <td>
+                              <img src="https://github-readme-stats.vercel.app/api?username=Everaldo451&theme=onedark" height="150"/>
+                    </td>
+                    <td>
+                              <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Everaldo451&layout=compact&theme=onedark" height="150"/>
+                    </td>
+          </tr>
+</table>
