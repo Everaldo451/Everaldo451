@@ -1,7 +1,7 @@
 # Bem vindos ao meu perfil. 
 
 ### Redes sociais
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everaldo-veloso-cavalcanti-junior-15673a30a)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everaldovcjr)
 
 ## Skills
 
